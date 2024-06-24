@@ -1,11 +1,11 @@
 {
   "IndexPage": {
-    "title": "next-intl example",
-    "description": "Welcome to the Next.js Internationalization (i18n) example! This demo showcases the power of the App Router and how to manage multilingual content seamlessly using next-intl."
+    "title": "Ecommerce - wefixit",
+    "description": "E-commerce is the buying and selling of goods and services over the internet. It offers convenience, a wide selection, and competitive pricing. Businesses leverage e-commerce to reach a global audience, streamline operations, and enhance customer experience through personalized services and efficient delivery systems."
   },
   "AboutPage": {
     "title": "About",
-    "description": "About example page."
+    "description": "we believe shopping should be a delightful experience. Founded in [Year], we have grown from a small startup into a trusted online marketplace. Our mission is to bring you the best products from around the world, right to your doorstep."
   },
   "NotFoundPage": {
     "title": "Page Not Found",

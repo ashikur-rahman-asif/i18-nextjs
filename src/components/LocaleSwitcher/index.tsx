@@ -28,7 +28,7 @@ export default function LocaleSwitcher() {
         onChange={onSelectChange}
         disabled={isPending}>
         <option value="en">English</option>
-        <option value="pt">Português</option>
+        <option value="es">Spanish</option>
       </select>
     </label>
   );

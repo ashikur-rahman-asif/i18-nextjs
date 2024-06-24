@@ -1,0 +1,21 @@
+{
+  "IndexPage": {
+    "title": "Comercio electrónico - wefixit",
+    "description": "E-commerce is the buying and selling of goods and services over the internet. It offers convenience, a wide selection, and competitive pricing. Businesses leverage e-commerce to reach a global audience, streamline operations, and enhance customer experience through personalized services and efficient delivery systems."
+  },
+  "AboutPage": {
+    "title": "acerca de",
+    "description": "Creemos que comprar debe ser una experiencia placentera. Fundada en [Año], hemos pasado de ser una pequeña empresa emergente a un mercado en línea confiable. Nuestra misión es traerle los mejores productos de todo el mundo, directamente a su puerta."
+  },
+  "NotFoundPage": {
+    "title": "Página não encontrada",
+    "description": "Oops! Parece que você tropeçou em uma página que não existe. Não se preocupe, nossa mágica de internacionalização continua firme em outras partes do projeto. Sinta-se livre para voltar e explorar mais!"
+  },
+  "Navigation": {
+    "home": "Início",
+    "about": "Sobre"
+  },
+  "Footer": {
+    "copyright": "© 2024 Next i18n App. Todos os direitos reservados."
+  }
+}
